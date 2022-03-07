@@ -79,7 +79,3 @@ Via BountySource or to be discussed.
 ## License
 Unlicense <http://unlicense.org/>.
 
-## Current Issues
-It is off-line due to the authentication problems in GitHub.
-It shall be on the line by the uncle intership.
-(clear)
