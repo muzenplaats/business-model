@@ -77,5 +77,5 @@ Via BountySource or to be discussed.
 
 
 ## License
-Unlicense <http://unlicense.org/>.
+The Unlicense <http://unlicense.org/>.
 
